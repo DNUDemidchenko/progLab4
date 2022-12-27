@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "progLab4", "progLab4\progLab4.vcxproj", "{6607414F-FA70-41DD-A782-702BF89279EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Debug|x64.ActiveCfg = Debug|x64
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Debug|x64.Build.0 = Debug|x64
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Debug|x86.Build.0 = Debug|Win32
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Release|x64.ActiveCfg = Release|x64
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Release|x64.Build.0 = Release|x64
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Release|x86.ActiveCfg = Release|Win32
+		{6607414F-FA70-41DD-A782-702BF89279EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9431432A-F7B4-4147-9830-233380D71ED8}
+	EndGlobalSection
+EndGlobal
