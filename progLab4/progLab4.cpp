@@ -41,7 +41,7 @@ int main()
         {
             if (a == 0) break;
 
-            res *= a;
+            if (a % 2 == 0) res *= a;
             i++;
             cout << "a[" << i << "] = ";
         }
